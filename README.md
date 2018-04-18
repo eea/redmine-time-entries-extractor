@@ -10,7 +10,7 @@ redmine_time_entries_extractor_run.bat --context_param redmineUrl="https://myred
 
 Output
 
-csv files, one per day
+csv files, one per month
 
 Mandatory context parameters:
 
